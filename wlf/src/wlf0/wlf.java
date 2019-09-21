@@ -33,7 +33,7 @@ public class wlf {
 	
 	System.out.print("**************"+jine);
 	
-	
+	System.out.print("**************"+jine);
 }
 */
 		String[] ss ={"T04020101","1000277"};
